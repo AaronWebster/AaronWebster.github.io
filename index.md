@@ -1,8 +1,6 @@
 # Aaron Webster
 
-* * * * *
-
-[Resume](webster-resume.pdf) | [Contact](contact/index.html)
+[Resume](webster-resume.pdf) &#124; [Contact](contact/index.html)
 
 ## The Centrifugal Force Quartz Crystal Microbalance
 
