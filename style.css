@@ -1,0 +1,118 @@
+html {
+  margin: 0px;
+  padding: 0px;
+}
+
+body {
+  margin: 0px 10px 10px 10px;
+}
+
+new {
+  color: red;
+}
+
+new:before {
+  content: "(new)";
+}
+
+hr {
+  width: 100%;
+  border: 1px solid #336699;
+}
+
+div#TOC {
+  border-bottom: 2px solid #336699;
+  border-top: 2px solid #336699;
+}
+
+img {
+  border: 0px;
+  margin-right: 6px;
+  margin-top: 6px;
+}
+
+blockquote {
+  color: #333333;
+}
+
+blockquote p {
+  line-height: 130%;
+  margin: 0px;
+  padding: 0px;
+}
+
+h1,
+h2,
+h3,
+h4 {
+  margin: 10px 0px 0px 0px;
+  clear: both;
+}
+
+h1#headertext {
+  border-bottom: 2px solid #336699;
+}
+
+a:link {
+  text-decoration: none;
+  color: #3b6599;
+}
+
+a:visited {
+  color: #336699;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #ff9900;
+}
+
+a:active {
+  color: #336699;
+  text-decoration: none;
+}
+
+#links {
+  position: absolute;
+  background-color: #336699;
+  text-align: right;
+  left: 249px;
+  top: 70px;
+}
+
+pre {
+  border: dashed 1px #336699;
+  margin: 10px;
+  padding: 10px;
+  background: #F9F9FF;
+}
+
+div.figure {
+  display: block;
+  margin: auto;
+  text-align: center;
+}
+
+p.caption {
+  font-size: 0.9em;
+}
+
+table {
+  border-collapse: collapse;
+  position: relative;
+  width: 100%;
+  border: 1px solid #336699;
+  background: #f1f1f1;
+  text-align: left;
+  table-layout: auto;
+  padding: 4px 5px 4px 4px;
+}
+
+th {
+  text-align: left;
+  border-top: 1px solid #999999;
+  border-bottom: 1px solid #999999;
+  border-right: 0px;
+  border-left: 0px;
+  background: #e0e0e0;
+}
