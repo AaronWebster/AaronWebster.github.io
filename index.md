@@ -96,9 +96,3 @@
 
 * * * * *
 
-[Aaron Webster (awebster@falsecolour.com) 5EDD 2B34 F6BA 6652 31EF 7169
-953D 7ABD 05C7 1625](webster_pubkey.txt)
-
-[Your Privacy on this Site](privacy/privacy.html)
-
-[Colophon](colophon/index.html)
