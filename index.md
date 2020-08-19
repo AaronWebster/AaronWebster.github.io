@@ -1,5 +1,7 @@
 # Aaron Webster
 
+* * * * *
+
 [Resume](webster-resume.pdf) &#124; [Contact](contact/index.html)
 
 ## The Centrifugal Force Quartz Crystal Microbalance
@@ -93,4 +95,3 @@
 * [Observation of Magnetar Burst SGR 1806-20](SGR1806-20/SGR1806-20.html)
 
 * * * * *
-
