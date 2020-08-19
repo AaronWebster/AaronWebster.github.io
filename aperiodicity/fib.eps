@@ -1,0 +1,51 @@
+%!PS-Adobe-3.0 EPSF-3.0
+%%Creator: Created from bitmaplib by Paul Bourke
+%%BoundingBox: 0 0 100 100
+%%LanguageLevel: 2
+%%Pages: 1
+%%DocumentData: Clean7Bit
+
+% size of lattice
+/sx 100 def
+/sy 100 def
+
+% radius of object
+/b 0.25 def
+
+% object (a "circle") at each lattice point
+/circle{
+	gsave
+	currentpoint translate
+	newpath 0 0 b 0 360 arc fill stroke
+	grestore
+} def
+
+% golden ration
+/theta 1 5 sqrt add 2 div def
+
+% returns the kth fibonacci number
+/fib {
+	dup theta exch exp 5 sqrt div exch neg theta neg exch exp 5 sqrt div sub cvi
+} def
+
+% proper mathematical modulo 1
+/mod1 {
+	dup truncate exch sub
+} def
+
+/k 18 def
+/i 0 def
+/n k fib def % how man iterations
+sx sy translate
+n {
+	%100 i ne {
+	i n div mod1 sx mul 
+	i n div k 1 sub fib mul mod1 sy mul
+	moveto circle
+	%} if
+	/i i 1 add def
+} repeat
+
+showpage
+
+%%EOF

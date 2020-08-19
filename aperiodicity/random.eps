@@ -1,0 +1,55 @@
+%!PS-Adobe-3.0 EPSF-3.0
+%%Creator: Created from bitmaplib by Paul Bourke
+%%BoundingBox: 0 0 100 100
+%%LanguageLevel: 2
+%%Pages: 1
+%%DocumentData: Clean7Bit
+%100 100 scale
+
+% makes a square or rectangular lattice
+
+% lattice constant
+/ax 10 def
+/ay 10 def
+
+% radius of lattice entities
+/r 1.00 def
+
+% size of the grid x and y
+/sx 100 def
+/sy 100 def
+
+/circle{
+	gsave
+	currentpoint translate
+	newpath 0 0 r 0 360 arc fill stroke
+	grestore
+} def
+newpath
+0 0 moveto
+0 sy lineto
+sx sy lineto
+sx 0 lineto
+closepath clip
+newpath
+0 0 moveto
+0 sy lineto
+sx sy lineto
+sx 0 lineto
+closepath stroke
+
+
+% go to origin
+0 0 moveto
+% columns
+0 ay sy { 
+0 ax sx { 
+	gsave
+		rand 100 mod rand 100 mod moveto circle
+	grestore
+} for 
+} for 
+
+showpage
+
+%%EOF
