@@ -1,0 +1,6 @@
+Archive: stable
+Component: main
+Origin: aaronwebster.github.io/minecraft
+Label: aaronwebster.github.io/minecraft
+Architecture: amd64
+Description: Minecraft server config repo

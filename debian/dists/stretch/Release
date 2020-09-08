@@ -1,0 +1,20 @@
+Origin: aaronwebster.github.io/minecraft
+Label: aaronwebster.github.io/minecraft
+Suite: stable
+Codename: stretch
+Date: Tue, 08 Sep 2020 18:05:26 UTC
+Architectures: amd64
+Components: main
+Description: Minecraft server config repo
+MD5Sum:
+ 47f2b0b7afb84b0fd5cd45dd7bdd09c8 547 main/binary-amd64/Packages
+ 5af5d7c0e8188428d8bfa081a1ae4680 381 main/binary-amd64/Packages.gz
+ 9a099cc4975ba266a3f91d2d9476f65f 175 main/binary-amd64/Release
+SHA1:
+ 30e0c8ef75fa35fd08bddf6d007b9ca9a387b469 547 main/binary-amd64/Packages
+ fb54831fb37d27925e75a75635ee622d45b87a90 381 main/binary-amd64/Packages.gz
+ f08536d25c2de771cd96a6aef6c93dd551023619 175 main/binary-amd64/Release
+SHA256:
+ 50e2b16b8d382966af5bd4dfd3b5abd3b08138122650ebd8a1b7993b63fb5726 547 main/binary-amd64/Packages
+ a9ad4bb9d08be0aff25e42237922da19f3e71eff543b362c5a504a0fe77f2926 381 main/binary-amd64/Packages.gz
+ 16da545d680f9b3a92638e4bba2bf1e7111037185ebeb4f7985cd07924311cd6 175 main/binary-amd64/Release
