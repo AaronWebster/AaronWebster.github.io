@@ -1,0 +1,6 @@
+Archive: stable
+Component: main
+Origin: aaronwebster.github.io/debian
+Label: aaronwebster.github.io/debian
+Architecture: amd64
+Description: Personal repository

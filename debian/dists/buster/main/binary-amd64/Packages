@@ -1,0 +1,16 @@
+Package: minecraft-server
+Version: 1.0.2
+Architecture: all
+Depends: libacl1-dev, libssl-dev, cython3, python3-msgpack, git,
+ ddclient, python3-dbus
+Maintainer: Aaron Webster
+Priority: optional
+Section: contrib/devel
+Filename: pool/main/m/minecraft-server/minecraft-server_1.0.2_all.deb
+Size: 4166
+SHA256: d7f7089114cb43f7202f6ca98424b81694e4f9d41f4162ae467b4c3e1577f9c9
+SHA1: a0f097769ca737eee56796c67f2c13026cf8775b
+MD5sum: 7e41edfecb0c3958facedf5259f50d9b
+Description: Minecraft Server Files
+Homepage: https://github.com/AaronWebster/minecraft
+

@@ -1,0 +1,37 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: aaronwebster.github.io/debian
+Label: aaronwebster.github.io/debian
+Suite: stable
+Codename: buster
+Date: Tue, 08 Sep 2020 18:36:41 UTC
+Architectures: amd64
+Components: main
+Description: Personal repository
+MD5Sum:
+ 3330ae562d0d6676e9616ad17ca2ef9a 547 main/binary-amd64/Packages
+ ef6ffa1600e81068346a1e06e97afc0a 385 main/binary-amd64/Packages.gz
+ 74fd28cac459bdb66e8c5327d2e3be55 160 main/binary-amd64/Release
+SHA1:
+ 559a63294bdb2a287123e3a17c4047cb0f028d58 547 main/binary-amd64/Packages
+ 8758c275647280bb6015da0d91f061586fb73e46 385 main/binary-amd64/Packages.gz
+ 7793016796f1ddbf86b5a6790f547c42817a76da 160 main/binary-amd64/Release
+SHA256:
+ 5f37b41200fa6ba50a4b6768bf9e903e3da15c62adf3c8a5b2c186d344549ee2 547 main/binary-amd64/Packages
+ 6caf6aae0d3ecdd68ec8c95395bdaf07ba2648e141406e67e4b107cd1f6e0f7e 385 main/binary-amd64/Packages.gz
+ aac91cca0c24d588b171fc289ad34ba285ff9b48846993bb7c7747bcb723365e 160 main/binary-amd64/Release
+-----BEGIN PGP SIGNATURE-----
+
+iQGzBAEBCgAdFiEEhq39yqrOfb24YN1IMlqWD1JwIA8FAl9Xz0AACgkQMlqWD1Jw
+IA9x4wv/bs/M13stz8AbhomVXCCntr4wC35DqpVbhmx95uC8zQZfmUB+YT049/RL
+/a3pPax4SoTfHPoLiCXJFX0SSD7fC8yEwcPB2WHz4TTA3uHQediYaRXE25NCLWXF
+AECw9Ga61Xlx7KnxB0JyhM1CbQVgx6qlTnjSSREDvJ+2hZ5jxPdmEOX0V5HEJUwf
+EtTPT5naCdkHZVkQsztZw4DNETiBLfIkDrtycz+lBiRMgaUB6NXNJ2aJPL/iISPo
+wubh7fO3PxMxr7UBD4ME3cxvvj0mQlTCIl9TCGvXdMjLem0Ke3WEbq+6qa3SZK1+
+dBXOcPWAcfob8Lsi2ZXzbBQjzzny0fQIiFU/lMXJYHAlbvnKbZX21EaW0n1rHqEX
+g6Jon1PbGdOijrBJn+2BqYzvVZMlAj6i+R1wUKl0cvEDU1XlHnAuf1CW/g5lK6L/
+Dpm1i7x7Gh/KnglcSDaphWkIpaiidLnyVNAGfaY18cdTq5XupCG5ed5ZfPBKcB2q
+ekhMS8Gr
+=+vSx
+-----END PGP SIGNATURE-----
