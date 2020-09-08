@@ -1,8 +1,8 @@
-Origin: aaronwebster.github.io/minecraft
-Label: aaronwebster.github.io/minecraft
+Origin: aaronwebster.github.io/debian
+Label: aaronwebster.github.io/debian
 Suite: stable
 Codename: stretch
 Architectures: amd64
 Components: main
-Description: Minecraft server config repo
+Description: Personal repository
 SignWith: 86ADFDCAAACE7DBDB860DD48325A960F5270200F
