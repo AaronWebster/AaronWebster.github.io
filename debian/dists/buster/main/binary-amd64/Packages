@@ -14,3 +14,17 @@ MD5sum: 51f44ce83a6e650431adfad111317af1
 Description: Minecraft Server Files
 Homepage: https://github.com/AaronWebster/minecraft
 
+Package: winterman
+Version: 1.0.0
+Architecture: all
+Maintainer: Aaron Webster
+Priority: optional
+Section: contrib/devel
+Filename: pool/main/w/winterman/winterman_1.0.0_all.deb
+Size: 1420
+SHA256: bccc4bc56a2d693413082df56200836871aa25d2297a08989a7050d6c3ce1b10
+SHA1: 888a8999f9d2e3672072b40fdfed208c5e92567a
+MD5sum: edba3f946bfbad6593f06ed8a5623e0c
+Description: Winterman System Package
+Homepage: https://github.com/AaronWebster/winterman
+

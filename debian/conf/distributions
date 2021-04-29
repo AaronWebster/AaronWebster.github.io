@@ -4,5 +4,5 @@ Suite: stable
 Codename: buster
 Architectures: amd64
 Components: main
-Description: Personal repository
-SignWith: 86ADFDCAAACE7DBDB860DD48325A960F5270200F
+Description: Debian repository
+SignWith: DD1F6B1D8670875B1B7558428374E2513C09C8EF
