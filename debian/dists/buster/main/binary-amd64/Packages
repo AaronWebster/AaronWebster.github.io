@@ -15,16 +15,16 @@ Description: Minecraft Server Files
 Homepage: https://github.com/AaronWebster/minecraft
 
 Package: winterman
-Version: 1.0.0
+Version: 2021.05.03-git96de50a
 Architecture: all
 Maintainer: Aaron Webster
 Priority: optional
 Section: contrib/devel
-Filename: pool/main/w/winterman/winterman_1.0.0_all.deb
-Size: 1420
-SHA256: bccc4bc56a2d693413082df56200836871aa25d2297a08989a7050d6c3ce1b10
-SHA1: 888a8999f9d2e3672072b40fdfed208c5e92567a
-MD5sum: edba3f946bfbad6593f06ed8a5623e0c
+Filename: pool/main/w/winterman/winterman_2021.05.03-git96de50a_all.deb
+Size: 1428
+SHA256: 4804cdaa6d8a0bafc13c337af3bf456739661100ed59150f9eed2708c973e1ad
+SHA1: 1731e7787237fbeb383b35238253d6901454260f
+MD5sum: 3e406bae1713dc79e114011d8a7b3a2b
 Description: Winterman System Package
 Homepage: https://github.com/AaronWebster/winterman
 
