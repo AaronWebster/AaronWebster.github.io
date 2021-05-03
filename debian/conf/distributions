@@ -2,7 +2,7 @@ Origin: aaronwebster.github.io/debian
 Label: aaronwebster.github.io/debian
 Suite: stable
 Codename: buster
-Architectures: amd64
+Architectures: armhf
 Components: main
 Description: Debian repository
 SignWith: DD1F6B1D8670875B1B7558428374E2513C09C8EF

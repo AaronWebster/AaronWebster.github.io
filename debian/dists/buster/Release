@@ -2,19 +2,19 @@ Origin: aaronwebster.github.io/debian
 Label: aaronwebster.github.io/debian
 Suite: stable
 Codename: buster
-Date: Mon, 03 May 2021 19:28:28 UTC
-Architectures: amd64
+Date: Mon, 03 May 2021 20:08:04 UTC
+Architectures: armhf
 Components: main
 Description: Debian repository
 MD5Sum:
- 36e6a03c32e3a5e7fe6e6bdb6205d9a6 1018 main/binary-amd64/Packages
- 2b0988deb9b72f556e429456a05a986a 543 main/binary-amd64/Packages.gz
- 74fd28cac459bdb66e8c5327d2e3be55 160 main/binary-amd64/Release
+ 0bdc4422578cb2a0681eea7d1143dc23 489 main/binary-armhf/Packages
+ e03c1693a93442ac2a4fae6d359d6eb0 343 main/binary-armhf/Packages.gz
+ 6c1df4b4d4089e597a52ba9cc0d5f9c7 158 main/binary-armhf/Release
 SHA1:
- 6adb4fae133ed028fec88bbed2da9cc80752473e 1018 main/binary-amd64/Packages
- e7ada2a4cb1e760057b900b263882783bbe3f5f5 543 main/binary-amd64/Packages.gz
- 7793016796f1ddbf86b5a6790f547c42817a76da 160 main/binary-amd64/Release
+ 00b9a09d78ce370058769de146d83ba97ceef38d 489 main/binary-armhf/Packages
+ 5af6a7268606d74a4d71c5cd215678c6951e736e 343 main/binary-armhf/Packages.gz
+ e34cc15650337b7d4fbfefe7505cc00759022439 158 main/binary-armhf/Release
 SHA256:
- adac8bfce8ddb5aa121d236193dda50ab274024c9597996f20f83b5fef2e4b5c 1018 main/binary-amd64/Packages
- edab25a32487f86040f84ac339949b110967ffa97c5aef1542b1626de96f4ec2 543 main/binary-amd64/Packages.gz
- aac91cca0c24d588b171fc289ad34ba285ff9b48846993bb7c7747bcb723365e 160 main/binary-amd64/Release
+ 45883a9e9e902530cebc73d03b21b2058c269b0ad8d55d956bf138dfdcf26fd2 489 main/binary-armhf/Packages
+ f1ca399fe049fbc7fca0df1e80e32d1509db311c21614e0ae6f39fff8c3034fc 343 main/binary-armhf/Packages.gz
+ f444b7ff3152edb43bb454ba68077e66bc0d46dadf770ee034f4daf0a0422238 158 main/binary-armhf/Release
