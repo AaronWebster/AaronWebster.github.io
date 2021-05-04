@@ -1,14 +1,14 @@
 Package: winterman
-Version: 20210503.1620072210-git051ca98
+Version: 20210504.1620144671-git9e69a33
 Architecture: all
 Maintainer: Aaron Webster
 Priority: optional
 Section: contrib/devel
-Filename: pool/main/w/winterman/winterman_20210503.1620072210-git051ca98_all.deb
-Size: 1438
-SHA256: 6c9bf85e2aaebdc14d79f2d0a0cddaee5a53a6a92b349109df33bac8c7fcd966
-SHA1: 61defb1add38d9c73d545b67d0a0360298522299
-MD5sum: 33fca06812a7e3732e6493d73fd9dad6
+Filename: pool/main/w/winterman/winterman_20210504.1620144671-git9e69a33_all.deb
+Size: 1440
+SHA256: fdff97de598419715dc99ba82a9456f5d7f92441000e1333e99bbca8c387bead
+SHA1: 05ef638b4ecf2be65ba244dfe70242e2c02d4e32
+MD5sum: 2cbfa227b904b7776a236e22a6d522fd
 Description: Winterman System Package
 Homepage: https://github.com/AaronWebster/winterman
 
